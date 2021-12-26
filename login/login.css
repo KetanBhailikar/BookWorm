@@ -1,0 +1,46 @@
+body{
+    background-color: #CCF5AC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#container{
+    background-color: white;
+    width: 30%;
+    border-radius: 10px;
+}
+
+h4{
+    margin:20px;
+    text-align: center;
+}
+
+form{
+    width: 80%;
+    margin: auto;
+}
+
+#btn{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#btn>button{
+    margin-left: auto;
+}
+
+#btn>a{
+    text-decoration: none;
+}
+#sub{
+    margin-top: 20px;
+    margin-right: 5px;;
+}
+
+@media only screen and (max-width: 600px) {
+    #container{
+        width: 80%;
+    }
+}
