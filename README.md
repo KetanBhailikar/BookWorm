@@ -1,7 +1,5 @@
 # BookWorm
 A project as per the Hackathon's Requirements  
-Explore it [here](https://packed-coughs.000webhostapp.com/)
-Its being hosted on [000webhost](https://www.000webhost.com/)  
 ## Screenshots
 ### Home
 ![Screenshot](https://user-images.githubusercontent.com/81752891/147848748-a66661a7-e017-4453-9a21-3ad59feccdf2.png)
